@@ -81,7 +81,7 @@ publication_category:
   books:
     title: 'Books-Test'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles Test'    
   conferences:
     title: 'Conference Papers'
 
