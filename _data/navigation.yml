@@ -23,8 +23,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Member"
-    url: /member/
+  - title: "Members"
+    url: /members/
     
   - title: "CV"
     url: /cv/
