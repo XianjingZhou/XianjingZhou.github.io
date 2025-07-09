@@ -79,7 +79,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books-Test'
+    title: 'Books'
   manuscripts:
     title: 'Selected Journal Articles'    
   conferences:
