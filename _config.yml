@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xianjing Zhou / Site Title"
+title                    : "Xianjing Zhou"
 title_separator          : "-"
 name                     : &name "Xianjing Zhou"
 description              : &description "personal description"
@@ -26,19 +26,19 @@ author:
   name             : "Xianjing Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
-  location         : "Earth"
+  location         : #"Earth"
   employer         : "Florida State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xianjing.zhou@fsu.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=r8kFSJoAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : XianjingZhou
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
