@@ -177,6 +177,12 @@
   min-width: 250px;
   background: var(--global-bg-color);
 
+  /*test align*/
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /*test align*/
+  
   a {
     display: block;
     margin: 0 1rem;
@@ -203,7 +209,12 @@
   }
 
   .visible-links {
-    display: table;
+    /*display: table;*/
+    /*test align*/
+    display: flex;
+    justify-content: flex-end;
+    flex: 1;
+    /*test align*/
 
     li {
       display: table-cell;
