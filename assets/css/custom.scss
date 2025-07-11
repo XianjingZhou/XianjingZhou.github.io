@@ -1,0 +1,19 @@
+/* Make the entire top nav use flexbox */
+.greedy-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  /* Right-align the nav links */
+  .greedy-nav .visible-links {
+    display: flex !important;
+    justify-content: flex-end !important;
+    flex: 1;
+    gap: 1rem; /* optional spacing between links */
+  }
+  
+  /* Optional: Ensure site title stays left-aligned */
+  .greedy-nav .site-title {
+    margin-right: auto;
+  }
