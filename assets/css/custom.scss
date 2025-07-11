@@ -3,17 +3,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 100%;
   }
   
+    /* Left-align the site title */
+    .greedy-nav .site-title {
+    margin-right: auto;
+  }
+
   /* Right-align the nav links */
   .greedy-nav .visible-links {
     display: flex !important;
-    justify-content: flex-end !important;
-    flex: 1;
+    justify-content: flex-end;
+    align-items: center;
     gap: 1rem; /* optional spacing between links */
-  }
-  
-  /* Optional: Ensure site title stays left-aligned */
-  .greedy-nav .site-title {
-    margin-right: auto;
   }
