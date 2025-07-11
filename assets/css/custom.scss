@@ -1,20 +1,20 @@
-/* Make the entire top nav use flexbox */
-.greedy-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-  }
-  
-    /* Left-align the site title */
-.greedy-nav .site-title {
-    margin-right: auto;
-  }
-
-  /* Right-align the nav links */
+/* Reset table-based layout */
 .greedy-nav .visible-links {
     display: flex !important;
     justify-content: flex-end;
     align-items: center;
-    gap: 1rem; /* optional spacing between links */
-  }
+    margin-left: auto;
+    width: auto;
+}
+  
+/* Reset individual nav item layout */
+.greedy-nav .visible-links > li {
+    display: inline-block !important;
+    vertical-align: middle;
+    margin-left: 1rem;
+}
+  
+/* Ensure site title stays left */
+.greedy-nav .site-title {
+    margin-right: auto;
+}
