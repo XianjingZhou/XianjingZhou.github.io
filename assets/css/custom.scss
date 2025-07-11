@@ -7,12 +7,12 @@
   }
   
     /* Left-align the site title */
-    .greedy-nav .site-title {
+.greedy-nav .site-title {
     margin-right: auto;
   }
 
   /* Right-align the nav links */
-  .greedy-nav .visible-links {
+.greedy-nav .visible-links {
     display: flex !important;
     justify-content: flex-end;
     align-items: center;
