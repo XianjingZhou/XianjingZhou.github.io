@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Xianjing's Academite"
+title                    : "Xianjing's Academites"
 title_separator          : "-"
 name                     : &name "Xianjing Zhou"
 description              : &description "personal description"
