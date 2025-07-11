@@ -353,7 +353,3 @@ compress_html:
   ignore:
     envs: development
 
-
-# Keep your existing settings, just add:
-custom_css:
-  - /assets/css/custom.scss
