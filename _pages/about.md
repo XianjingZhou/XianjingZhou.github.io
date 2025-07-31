@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi My name is Xianjing Zhou, in Chinese it is 周宪靖 (simplified) or 周憲靖 (tranditional). I am currently an assistant professor working on superconducting quantum circuits with a focus on intergrating circuit with single electrons on solid neon qubits.
+Hi my name is Xianjing Zhou. I am currently an assistant professor working on superconducting quantum circuits with a focus on intergrating circuit with single electrons on solid neon qubits.
 
 Hiring
 ======
